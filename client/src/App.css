@@ -1,0 +1,6 @@
+body{
+    /* background-color: #ffaa00; */
+    background-image: url(./images/background/mountains.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
